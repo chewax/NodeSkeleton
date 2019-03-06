@@ -1,0 +1,26 @@
+{
+  "name": "skeleton.js",
+  "version": "1.0.0",
+  "description": "Skeleton for Node.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Daniel Waksman <dwaksman@gmail.com> (https://github.com/chewax)",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "bluebird": "^3.1.1",
+    "body-parser": "^1.13.3",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.3",
+    "express-jwt": "^3.0.1",
+    "jsonwebtoken": "^5.0.5",
+    "lodash": "^4.13.1",
+    "log4js": "^0.6.26",
+    "mongodb": "^2.1.20",
+    "mongoose": "^4.1.6",
+    "nodemailer": "^1.4.0",
+    "underscore": "^1.8.3"
+  }
+}
